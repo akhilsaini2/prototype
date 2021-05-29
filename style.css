@@ -1,0 +1,25 @@
+h1{
+color:lightskyblue;
+}
+h2{
+color:khaki;
+}
+.header{
+background-color:darksalmon;
+}
+.header1{
+background-color: blue;
+}
+.body{
+background-color:lawngreen;
+}
+.image1{
+position:relative;
+}
+.image1 p{
+position:absolute;
+top:50%;
+left : 50%;
+transform:translate(-50%,-50%);
+opacity:0;
+}
